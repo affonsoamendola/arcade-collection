@@ -15,9 +15,9 @@ The definition of THING varies a bit, but in the current case is arcade machines
 This is mostly for MAME reasons but not only, there is also random arcade company related stuff that dont quite fit in with MAME Artwork reasons
 
 An important requirement is that the organizing must come from the file structure.
--An open-source, free-software database MIGHT be a better solution, in the case for cross-referencing photos that include Multiple arcade machines for exemple, but the categorizing would be INSANE.
---I am thinking of writing a software to make categorization easier. Maybe even leverage the WONDERS of machine learning to try and tell which arcade machines appear in which images. If thats not possible or a stupid idea, a guided manual categorization system should be simple enough to write. 
----Like a thing that show you an image and simply asks you which arcade machines appear there, and you just write and press enter, and it shows you the next one. Will try and time stuff to see how long it would take on average to categorize everything.
+* An open-source, free-software database MIGHT be a better solution, in the case for cross-referencing photos that include Multiple arcade machines for exemple, but the categorizing would be INSANE.
+    * I am thinking of writing a software to make categorization easier. Maybe even leverage the WONDERS of machine learning to try and tell which arcade machines appear in which images. If thats not possible or a stupid idea, a guided manual categorization system should be simple enough to write. 
+    * Like a thing that show you an image and simply asks you which arcade machines appear there, and you just write and press enter, and it shows you the next one. Will try and time stuff to see how long it would take on average to categorize everything.
 
 Basically there is more than MAME artwork here. so yeah.
 
@@ -68,14 +68,14 @@ But there is stuff thats OBVIOUSLY arcade specific, so they MUST go into arcade.
 
 Antique should really exist? There is stuff in there that is proto-pinball or proto-arcade.
 There isnt really a criteria for what I would consider Antique.
--I propose the PONG CRITERIA(tm) which states that if it's older than 1972, its antique.
+* I propose the PONG CRITERIA(tm) which states that if it's older than 1972, its antique.
 However the criteria is a bit vague, and I think it might be better as a subset of arcade or pinball 
-    arcade
-	|-antique
-	...
-	pinball
-	|-antique
-	...
+    * arcade
+	    * antique
+	    * ...
+	* pinball
+	    * antique
+	    * ...
 
 Audio, Photos, Videos, Scans folders should be sub-folder categories or not exist AT ALL.
 The goal of this is to make all things related to a specific arcade machine or pinball machine easily accessible.
