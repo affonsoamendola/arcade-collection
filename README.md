@@ -25,27 +25,36 @@ MAME Shortnames are really useful, So I might be sticking to them.
 
 Right now the file structure looks as follows:
 
-Research:
-|
-|-antique 		Old stuff that cant really be considered arcade
-|                 machines
-|-arcade  		Photos, flyers, videos, scans, audio of arcade 
-|				  machines
-|-audio   		Unknown or non arcade audio
-|-console 		Photos, flyers, videos, scans, audio of video-game 
-|                 consoles
-|-data    		Lists and Spreadsheets and random data about Arcade
-|                 machines or consoles
-|-docs	  		Old documents from weird places (like Atari)
-|-magazines 	Magazine Scans
-|-mame-art 		Random mame-related art (Mostly of MAME logos)
-|-non-specific 	Non-specific stuff
-|-photos 		Photos of random stuff
-|-pinball		Photos, flyers, videos, scans audio of pinball 
-|                 machines
-|-scans 		Scans for random stuff
-|-unsorted 		Still Unsorted stuff.
-|-video 		Viddeos of random stuff.
+Research
+
+* antique 		
+    * Old stuff that cant really be considered arcade machines
+* arcade  		
+    * Photos, flyers, videos, scans, audio of arcade machines
+* audio
+    * Unknown or non arcade audio
+* console 
+    * Photos, flyers, videos, scans, audio of video-game consoles
+* data    		
+    * Lists and Spreadsheets and random data about Arcade machines or consoles
+* docs	  		
+    * Old documents from weird places (like Atari)
+* magazines 	
+    * Magazine Scans
+* mame-art 		
+    * Random mame-related art (Mostly of MAME logos)
+* non-specific 	
+    * Non-specific stuff
+* photos 		
+    * Photos of random stuff
+* pinball		
+    * Photos, flyers, videos, scans audio of pinball machines
+* scans 		
+    * Scans for random stuff
+* unsorted 		
+    * Still Unsorted stuff.
+* video 		
+    * Viddeos of random stuff.
 
 
 Yeah. AS YOU CAN SEE, it fucking sucks.
